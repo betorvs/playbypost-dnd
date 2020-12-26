@@ -1,6 +1,7 @@
 # playbypost-dnd-api
 
 ![Go Test](https://github.com/betorvs/playbypost-dnd-api/workflows/Go%20Test/badge.svg)
+[![Coverage Status](https://coveralls.io/repos/github/betorvs/playbypost-dnd-api/badge.svg?branch=main)](https://coveralls.io/github/betorvs/playbypost-dnd-api?branch=main)
 
 ## Environment variables
 
